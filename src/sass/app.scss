@@ -1,0 +1,17 @@
+// --- Import
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Lexend+Deca&display=swap');
+
+$purple-700: #0A0C1B;
+$purple-600: #1C1938;
+$purple-500: #AB5CD8;
+
+// --- Theme Colores
+$primary: $purple-700;
+$secondary: $purple-600;
+$info: $purple-500;
+
+$font-family-sans-serif: 'Inter', sans-serif;
+$font-family-monospace: 'Lexend Deca', sans-serif;
+
+
+@import "../../node_modules/bootstrap/scss/bootstrap";
